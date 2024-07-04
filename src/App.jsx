@@ -60,6 +60,8 @@ function App() {
 				))}
 			</div>
 			{turno ? <h1>Turno de las X</h1> : <h1>Turno de las O</h1>}
+
+			<h1>HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
 		</>
 	);
 }
